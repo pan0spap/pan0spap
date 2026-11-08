@@ -1,6 +1,6 @@
 <h1>Hi, I'm Panagiotis! M.Sc. in Network Communications and Systems Security, Aristotle University of Thessaloniki
 
-<h2>👨‍💻 Cyber Security Projects Projects:</h2>
+<h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b>Azure-Microsoft-Sentinel-Home-SOC-Lab</b>
   - [Home SOC Lab](https://github.com/pan0spap/Azure-Microsoft-Sentinel-Home-SOC-Lab.git)

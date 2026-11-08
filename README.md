@@ -3,7 +3,13 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b>Azure-Microsoft-Sentinel-Home-SOC-Lab</b>
-  - [Home SOC Lab](https://github.com/pan0spap/Azure-Microsoft-Sentinel-Home-SOC-Lab.git)
+  - [Azure Microsoft Sentinel Home SOC Lab](https://github.com/pan0spap/Azure-Microsoft-Sentinel-Home-SOC-Lab.git)
+- <b>Vulnerability Management Using Nessus Essentials</b>
+  - [Vulnerability Management Using Nessus Essentials](https://github.com/pan0spap/Vulnerability-Management-Using-Nessus-Essentials.git)
+- <b>Telnet Traffic Analysis with Wireshark</b>
+  - [Telnet Traffic Analysis with Wireshark](https://github.com/pan0spap/telnet-traffic-analysis-wireshark.git)
+- <b>Vulnerability Management Using Nessus Essentials</b>
+  - [Cryptographic Algorithms Implementation & Analysis (Python)](https://github.com/pan0spap/Cryptographic-Algorithms-Implementation-One-Time-Pad-OTP-Caesar-Cipher-and-Vigen-re-Cipher.git)
 
 
 
